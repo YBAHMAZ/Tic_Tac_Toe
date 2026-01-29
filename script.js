@@ -102,6 +102,8 @@ function winner() {
 }
 
 function fill(id) {
+	if (nbr)
+		return ;
 	let element = document.getElementById(id);
 	if (select === 'X' && element.innerHTML == '') {
 		element.innerHTML = 'X';
