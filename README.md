@@ -1,5 +1,3 @@
-# Tic_Tac_Toe
-
 # Link of the game
 
 ```
